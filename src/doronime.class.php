@@ -1,9 +1,11 @@
 <?php
+
 class Doronime
 {
     public $url, $html, $type = array();
     public function __construct($url = 'https://doronime.id/')
-    {
+    {   
+        includes('simple_html_dom.php');
         $this->url = $url;
         $this->html = file_get_contents($this->url);
     }
