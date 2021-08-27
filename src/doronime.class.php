@@ -1,5 +1,5 @@
 <?php
-includes('simple_html_dom.php');
+require_once('simple_html_dom.php');
 class Doronime
 {
     public $url, $html, $type = array();
