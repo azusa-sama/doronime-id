@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://i.pinimg.com/originals/a3/1b/ec/a31becfcb76c2a3d73118c2b7b302b0b.png"  align="center"/>
+</p>
 <h1 align="center"> Doronime Scraper </h1>
 <h4 align="center"> Get Direct Download Link from Doronime.id<br/></h4>
 <br/>
@@ -5,7 +8,7 @@
 ---
 
 ## Usage
-to get data from doronime.id :
+Get data from doronime.id :
 
 ```php
 // Initializing and Getting data then save to properties variable
@@ -31,14 +34,14 @@ $doronime->get_ongoing_anime();
 $doronime->get_season();
 ```
 
-to Download from doronime.id
+Download from doronime.id
 
 ```php
 $doronime_dl = new DoronimeDL('url');
 $doronime->download();
 ```
 
-example : 
+Example : 
 
 ```php
 $doronime_dl = new DoronimeDL('https://doronime.id/anime/tsuki-ga-michibiku-isekai-douchuu/episode-8');
