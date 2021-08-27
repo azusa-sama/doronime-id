@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/originals/a3/1b/ec/a31becfcb76c2a3d73118c2b7b302b0b.png"  align="center"/>
+<img src="https://doronime.id/images/doronime.png"  align="center"/>
 </p>
 <h1 align="center"> Doronime Scraper </h1>
 <h4 align="center"> Get Direct Download Link from Doronime.id<br/></h4>
