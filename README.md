@@ -38,14 +38,14 @@ Download from doronime.id
 
 ```php
 $doronime_dl = new DoronimeDL('url');
-$doronime->download();
+$doronime_dl->download();
 ```
 
 Example : 
 
 ```php
 $doronime_dl = new DoronimeDL('https://doronime.id/anime/tsuki-ga-michibiku-isekai-douchuu/episode-8');
-$doronime->download();
+$doronime_dl->download();
 ```
 
 DoronimeDL can download OST,Anime and other from Doronime.id
