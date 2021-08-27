@@ -9,7 +9,7 @@ to get data from doronime.id :
 
 ```php
 // Initializing and Getting data then save to properties variable
-$doronime->doronime();
+$doronime = new Doronime();
 $doronime->get_data();
 
 // Get Anime Recommend
